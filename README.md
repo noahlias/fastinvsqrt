@@ -63,9 +63,11 @@ make
 I use the `time` and [`viztracer`](https://github.com/gaogaotiantian/viztracer) and [`hyperfine`](https://github.com/sharkdp/hyperfine) to make benchmarks on three implementations on My **M1 Pro**.
 
 - time
+
   ![Alt text](assets/time.png)
 
 - hyperfine
+
   ![Alt text](assets/hyperfine.png)
 
 ## Inspire
