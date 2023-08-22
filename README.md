@@ -70,7 +70,7 @@ I use the `time` and [`viztracer`](https://github.com/gaogaotiantian/viztracer) 
 
   ![Alt text](assets/hyperfine.png)
 
-## Inspire
+## Acknowledge
 
 - [Fast_Inverse_Square_Root](https://en.wikipedia.org/wiki/Fast_inverse_square_root)
 - [Develop C Extension](https://docs.python.org/3/extending/extending.html)
